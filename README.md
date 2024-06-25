@@ -15,9 +15,11 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="PY" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="center"  alt="mysql"src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center"  alt="powerbi"src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"
   <img align="center"  alt="Django"src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-<img align="center"  alt="Firebase"src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img align="center"  alt="Firebase"src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img aligen="center"   alt="azure"src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
  
  </div><br/>
 
-Apaixonado por Técnologias, Educação Buscando sempre o melhor! 🤝
+Apaixonado por Técnologias, Educação e ajudar as Pessoas a mudar suas vidas com técnologias,Buscando sempre o melhor! 🤝
