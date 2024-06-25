@@ -5,7 +5,7 @@
 [![whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/IVUETHSGRGPDH1/)
 <br>
 ![Rudimacy Duprat GitHub stats](https://github-readme-stats.vercel.app/api?username=RudimacyDuprat&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudimacyDuprat&layout=compact)
+
 
 
 ## Tecnologias que eu uso no meu dia
@@ -19,3 +19,5 @@
 <img align="center"  alt="Firebase"src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
  
  </div><br/>
+
+Apaixonado por Técnologias, Educação Buscando sempre o melhor! 🤝
