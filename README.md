@@ -7,10 +7,13 @@
 [![whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/IVUETHSGRGPDH1/)
   </a>​​
 </ p >
-
-
-
-![Rudimacy GitHub stats](https://github-readme-stats.vercel.app/api?username=RudimacyDuprat&show_icons=true&theme=dracula&count_private=true)
+😄 Pronomes: Ele/Dele
+</div>​​
+< div  alinhar = " centro " >
+  <a href=" https://github.com/RudimacyDuprat " >​ ​​​​​​
+  < img  height = " 150em "  src = " https://github-readme-stats.vercel.app/api?username=MateusSouzaAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true " />
+  < img  height = " 150em "  src = " https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouzaAlves&layout=compact&langs_count=7&theme=dark " />
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
