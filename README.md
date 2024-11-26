@@ -1,6 +1,8 @@
-### Olá, sou Rudimacy Duprat! ☕
-.Técnico em Analises e Desenvolvimento de sistemas 👨🏻‍💻 <br>
-.Graduado em Sistemas para Internet 💻
+### Olá,sou Rudimacy Duprat! ☕
+<h3>Graduações</h3>
+.<strong>Técnico em Analises e Desenvolvimento de sistemas</strong> 👨🏻‍💻 <br>
+.<strong>Graduado em Sistemas para Internet</strong> 💻 <br>
+.<strong>Pós-Graduando em Administração de Banco de Dados</strong>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rudi_duprat)
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudimacy-duprat-desenvolvimentosistemas/)
