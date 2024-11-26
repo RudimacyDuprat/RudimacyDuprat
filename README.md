@@ -5,7 +5,7 @@
 .<strong>Graduado em Sistemas para Internet</strong> 💻 <br>
 .<strong>Pós-Graduando em Administração de Banco de Dados</strong> <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> <br>
-
+<h3>Onde pode me encontrar</h3>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rudi_duprat)
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudimacy-duprat-desenvolvimentosistemas/)
 [![whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/IVUETHSGRGPDH1/)
