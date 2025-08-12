@@ -3,7 +3,8 @@
 <h3>Graduações</h3>
 .<strong>Técnico em Analises e Desenvolvimento de sistemas</strong> 👨🏻‍💻 <br>
 .<strong>Graduado em Sistemas para Internet</strong> 💻 <br>
-.<strong>Pós-Graduando em Administração de Banco de Dados</strong> <br>
+.<strong>Pós-Graduado em Administração de Banco de Dados</strong> <br>
+.<strong>Pós-Graduado em Engenharia de Software em dispositivos Móveis</strong> <br>
 
 ### Onde pode me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rudi_duprat)
