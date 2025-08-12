@@ -55,4 +55,4 @@
  
  </div><br/>
 
-Apaixonado por Técnologias, Educação e ajudar as Pessoas a mudar suas vidas com técnologias,Buscando sempre o melhor! 🤝
+
