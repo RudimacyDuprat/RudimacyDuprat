@@ -1,4 +1,6 @@
-### Helle, world Rudimacy Duprat! ☕
+### 👋 Olá, eu sou Rudimacy Duprat ☕
+💻 Engenheiro de Software | Professor de Programação
+🎓 Sistemas para Internet | Pós em Engenharia de Software e Banco de Dados
 
 <h3>Graduações</h3>
 .<strong>Técnico em Analises e Desenvolvimento de sistemas</strong> 👨🏻‍💻 <br>
