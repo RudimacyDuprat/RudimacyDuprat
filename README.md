@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou Rudimacy Duprat ☕
-💻 Engenheiro de Software | Professor de Programação
+💻 Engenheiro de Software | Professor de Programação <br>
 🎓 Sistemas para Internet | Pós em Engenharia de Software e Banco de Dados
 
 <h3>Graduações</h3>
